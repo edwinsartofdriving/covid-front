@@ -7,7 +7,7 @@
           John F. Kennedy once said, “When written in Chinese, the word ‘crisis’ is composed of two characters. One represents danger and the other represents opportunity.”
           </p>
 <p class="secondary-text">
-When our beloved nation was struck by the crisis, not only did we realise the danger that COVID 19 posed to the common man, but we collectively realised the opportunity to come together behind closed doors to address critical issues that the pandemic has bought about.
+When our beloved nation was struck by the crisis, not only did we realise the danger that COVID 19 posed to the common man, but we collectively realised the opportunity to come together behind closed doors to address critical issues that the pandemic has brought about.
 </p>
 
 <h3>Why we spent a sleepless week to build CovidFYI.in?</h3>
